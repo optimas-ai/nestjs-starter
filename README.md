@@ -113,7 +113,7 @@ npm install
 3. Run migration
 
 ```bash
-npx prisma migreate dev --name init
+npx prisma migrate dev --name init
 ```
 
 4. Start the app
